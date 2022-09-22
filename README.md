@@ -14,3 +14,15 @@ Usage
 3) Launch Metasploit
 
     Start Metasploit using Launch Metasploit option.
+
+#installation
+
+sudo apt-get install python3 python3-pip net-tools
+
+git clone https://github.com/Amarendra-ai/payload_generator.git
+
+cd pay
+
+sudo pip3 install -r requirements.txt
+
+python3 pay.py
