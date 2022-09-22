@@ -1,6 +1,6 @@
 # payload_generator
 
-Usage
+## Usage
 
 1) Create a payload
 
@@ -15,7 +15,7 @@ Usage
 
     Start Metasploit using Launch Metasploit option.
 
-#installation
+## installation
 
 sudo apt-get install python3 python3-pip net-tools
 
