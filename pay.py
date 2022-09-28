@@ -142,7 +142,6 @@ try:
                     sel()
                 elif p=="n":
                     print(Y+"\nExit.........! Have a nice day :) ")
-                    print(R+"\n------------"+CY+" Code by >>"+G+" Deadpool2000"+R+" ----------------------"+W)
                     exit(0)                
                 else:
                     print(R+"\nInvalid choice ! Leaving.......\n"+W)
